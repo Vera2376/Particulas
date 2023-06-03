@@ -6,4 +6,6 @@ El código es una secuencia de instrucciones escritas en JavaScript para crear u
 <br><strong>
 
 Este es el enlace para la wiki de JavaScript https://github.com/Vera2376/Particulas.wiki.git
+  
+Ahora por último pegamos el enlace de la wiki de html: https://github.com/Vera2376/Particulas.wiki.git
 
